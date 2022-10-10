@@ -1,3 +1,3 @@
-# Demo of the video 
+# Demo of the application
 
 ![Alt text](./demo.gif "Title")
